@@ -1,0 +1,259 @@
+// municipios
+graph {
+	graph [overlap=false splines=true]
+	Adjuntas
+	Aguada
+	Aguadilla
+	"Aguas Buenas"
+	Aibonito
+	"Añasco"
+	Arecibo
+	Arroyo
+	Barceloneta
+	Barranquitas
+	"Bayamón"
+	"Cabo Rojo"
+	Caguas
+	Camuy
+	"Canóvanas"
+	Carolina
+	"Cataño"
+	Cayey
+	Ceiba
+	Ciales
+	Cidra
+	Coamo
+	"Comerío"
+	Corozal
+	Culebra
+	Dorado
+	Fajardo
+	Florida
+	"Guánica"
+	Guayama
+	Guayanilla
+	Guaynabo
+	Gurabo
+	Hatillo
+	Hormigueros
+	Humacao
+	Isabela
+	Jayuya
+	"Juana Díaz"
+	Juncos
+	Lajas
+	Lares
+	"Las Marías"
+	"Las Piedras"
+	"Loíza"
+	Luquillo
+	"Manatí"
+	Maricao
+	Maunabo
+	"Mayagüez"
+	Moca
+	Morovis
+	Naguabo
+	Naranjito
+	Orocovis
+	Patillas
+	"Peñuelas"
+	Ponce
+	Quebradillas
+	"Rincón"
+	"Río Grande"
+	"Sabana Grande"
+	Salinas
+	"San Germán"
+	"San Juan"
+	"San Lorenzo"
+	"San Sebastián"
+	"Santa Isabel"
+	"Toa Alta"
+	"Toa Baja"
+	"Trujillo Alto"
+	Utuado
+	"Vega Alta"
+	"Vega Baja"
+	Vieques
+	Villalba
+	Yabucoa
+	Yauco
+	Adjuntas -- Utuado
+	Adjuntas -- Ponce
+	Adjuntas -- "Peñuelas"
+	Adjuntas -- Lares
+	Adjuntas -- Guayanilla
+	Adjuntas -- Yauco
+	Aguada -- Moca
+	Aguada -- "Rincón"
+	Aguada -- "Añasco"
+	Aguada -- Aguadilla
+	Aguadilla -- Moca
+	Aguadilla -- Isabela
+	"Aguas Buenas" -- "Bayamón"
+	"Aguas Buenas" -- Caguas
+	"Aguas Buenas" -- Cidra
+	"Aguas Buenas" -- "Comerío"
+	"Aguas Buenas" -- Guaynabo
+	"Aguas Buenas" -- "San Juan"
+	Aibonito -- Cayey
+	Aibonito -- Coamo
+	Aibonito -- Salinas
+	Aibonito -- Cidra
+	Aibonito -- Barranquitas
+	"Añasco" -- "San Sebastián"
+	"Añasco" -- "Mayagüez"
+	"Añasco" -- "Rincón"
+	"Añasco" -- "Las Marías"
+	"Añasco" -- Moca
+	Arecibo -- Hatillo
+	Arecibo -- Utuado
+	Arecibo -- Barceloneta
+	Arecibo -- Ciales
+	Arecibo -- Florida
+	Arroyo -- Patillas
+	Arroyo -- Guayama
+	Barceloneta -- "Manatí"
+	Barceloneta -- Florida
+	Barranquitas -- Orocovis
+	Barranquitas -- Coamo
+	Barranquitas -- Cidra
+	Barranquitas -- Corozal
+	Barranquitas -- "Comerío"
+	Barranquitas -- Naranjito
+	"Bayamón" -- "Cataño"
+	"Bayamón" -- "Toa Baja"
+	"Bayamón" -- "Toa Alta"
+	"Bayamón" -- "Comerío"
+	"Bayamón" -- Guaynabo
+	"Bayamón" -- Naranjito
+	"Cabo Rojo" -- "Mayagüez"
+	"Cabo Rojo" -- Lajas
+	"Cabo Rojo" -- "San Germán"
+	"Cabo Rojo" -- Hormigueros
+	Caguas -- Gurabo
+	Caguas -- "Trujillo Alto"
+	Caguas -- Cayey
+	Caguas -- Cidra
+	Caguas -- "San Lorenzo"
+	Caguas -- "San Juan"
+	Camuy -- Lares
+	Camuy -- Quebradillas
+	Camuy -- "San Sebastián"
+	Camuy -- Hatillo
+	"Canóvanas" -- Juncos
+	"Canóvanas" -- "Loíza"
+	"Canóvanas" -- "Las Piedras"
+	"Canóvanas" -- "Río Grande"
+	"Canóvanas" -- Carolina
+	Carolina -- Gurabo
+	Carolina -- "Trujillo Alto"
+	Carolina -- Juncos
+	Carolina -- "Loíza"
+	Carolina -- "San Juan"
+	"Cataño" -- "Toa Baja"
+	"Cataño" -- Guaynabo
+	"Cataño" -- "San Juan"
+	Cayey -- Cidra
+	Cayey -- Guayama
+	Cayey -- "San Lorenzo"
+	Cayey -- Salinas
+	Ceiba -- "Río Grande"
+	Ceiba -- Naguabo
+	Ceiba -- Fajardo
+	Ciales -- Orocovis
+	Ciales -- "Manatí"
+	Ciales -- Florida
+	Cidra -- "Comerío"
+	Coamo -- "Santa Isabel"
+	Coamo -- Orocovis
+	Coamo -- Salinas
+	Coamo -- "Juana Díaz"
+	Coamo -- Villalba
+	"Comerío" -- Naranjito
+	Corozal -- Orocovis
+	Corozal -- "Toa Alta"
+	Corozal -- "Vega Alta"
+	Corozal -- Morovis
+	Corozal -- Naranjito
+	Dorado -- "Vega Alta"
+	Dorado -- "Toa Baja"
+	Dorado -- "Toa Alta"
+	Fajardo -- Luquillo
+	Florida -- "Manatí"
+	"Guánica" -- "Sabana Grande"
+	"Guánica" -- Lajas
+	"Guánica" -- Yauco
+	Guayama -- Patillas
+	Guayama -- Salinas
+	Guayanilla -- "Peñuelas"
+	Guayanilla -- Yauco
+	Guaynabo -- "San Juan"
+	Gurabo -- "Trujillo Alto"
+	Gurabo -- Juncos
+	Gurabo -- "San Lorenzo"
+	Hatillo -- Lares
+	Hatillo -- Utuado
+	Hormigueros -- "Mayagüez"
+	Hormigueros -- "San Germán"
+	Humacao -- "Las Piedras"
+	Humacao -- Naguabo
+	Humacao -- Yabucoa
+	Isabela -- Moca
+	Isabela -- Quebradillas
+	Isabela -- "San Sebastián"
+	Jayuya -- Utuado
+	Jayuya -- Ponce
+	"Juana Díaz" -- Orocovis
+	"Juana Díaz" -- "Santa Isabel"
+	"Juana Díaz" -- Ponce
+	"Juana Díaz" -- Villalba
+	Juncos -- "Las Piedras"
+	Juncos -- "San Lorenzo"
+	Lajas -- "Sabana Grande"
+	Lajas -- "San Germán"
+	Lares -- Utuado
+	Lares -- "San Sebastián"
+	Lares -- "Las Marías"
+	Lares -- Yauco
+	Lares -- Maricao
+	"Las Marías" -- "San Sebastián"
+	"Las Marías" -- "Mayagüez"
+	"Las Marías" -- Maricao
+	"Las Piedras" -- Naguabo
+	"Las Piedras" -- Yabucoa
+	"Las Piedras" -- "Río Grande"
+	"Las Piedras" -- "San Lorenzo"
+	"Loíza" -- "Río Grande"
+	Luquillo -- "Río Grande"
+	"Manatí" -- "Vega Baja"
+	"Manatí" -- Morovis
+	Maricao -- "Sabana Grande"
+	Maricao -- "Mayagüez"
+	Maricao -- Yauco
+	Maricao -- "San Germán"
+	Maunabo -- Patillas
+	Maunabo -- Yabucoa
+	"Mayagüez" -- "San Germán"
+	Moca -- "San Sebastián"
+	Morovis -- Orocovis
+	Morovis -- "Vega Baja"
+	Morovis -- "Vega Alta"
+	Naguabo -- "Río Grande"
+	Naranjito -- "Toa Alta"
+	Orocovis -- Villalba
+	Patillas -- Yabucoa
+	Patillas -- "San Lorenzo"
+	"Peñuelas" -- Ponce
+	Ponce -- Utuado
+	Quebradillas -- "San Sebastián"
+	"Sabana Grande" -- Yauco
+	"Sabana Grande" -- "San Germán"
+	Salinas -- "Santa Isabel"
+	"San Juan" -- "Trujillo Alto"
+	"San Lorenzo" -- Yabucoa
+	"Toa Alta" -- "Toa Baja"
+	"Toa Alta" -- "Vega Alta"
+	"Vega Alta" -- "Vega Baja"
+}
